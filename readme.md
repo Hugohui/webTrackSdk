@@ -7,7 +7,7 @@
 <script src="./webTrack.js"></script>
 ```
 
-### 二、配置
+#### 二、配置
 `track`对象中的`clientConfig`为埋点配置项：
 - serverUrl: 埋点上报地址
 - version: 当前SDK版本
